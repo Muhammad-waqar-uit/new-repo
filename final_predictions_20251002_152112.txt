@@ -1,0 +1,13 @@
+Final Lottery Predictions - 2025-10-02 15:21:12
+Optimized for 2+ Number Hits (20% Success Rate)
+==================================================
+
+Powerball Regular: [23, np.int64(27), 28, 30, 62] + 26
+Sum: 170, Even/Odd: 3E/2O
+
+Powerball Double Play: [np.int64(1), 23, 28, 30, 62] + 8
+Sum: 144, Even/Odd: 3E/2O
+
+Megabucks: [13, 19, 20, np.int64(29), 38] + 5
+Sum: 119, Even/Odd: 2E/3O
+
